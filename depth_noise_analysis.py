@@ -17,7 +17,7 @@ NORMAL = False
 hor = 215.9
 ver = 355.6
 offset = 20
-data_dir = ["./sample_data_2","./sample_data_1","./sample_data_4","./sample_data_5"]
+data_dir = ["./data/sample_data_2","./data/sample_data_1","./data/sample_data_4","./data/sample_data_5"]
 distance = [2*ver,2*ver+hor,4*ver+hor,6*ver+hor]
 
 data = []

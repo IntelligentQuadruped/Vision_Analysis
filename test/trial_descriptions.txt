@@ -1,0 +1,4 @@
+1: Path is on the right, no glossy obstacles
+2: Path is on the right but more straight
+3: Path is on the left, glossy obstacle on the left
+4: Path is mostly straight ahead, glossy wall on the left 
